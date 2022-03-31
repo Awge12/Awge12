@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Awge12 And im a kid that want to lean about coding like lua C++, C+, C#, lua, and more
-- 👀 I’m interested in C+, Lua, And more
+- 👋 Hi, I’m @Awge12
+- 👀 I’m interested in Lua, and more
 - 🌱 I’m currently learning Lua
 - Im Working On A Fivem Called KMGRZ (KMG RedZone) Come and join the discord https://discord.gg/kmgrz
 
